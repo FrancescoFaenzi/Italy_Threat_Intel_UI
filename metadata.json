@@ -1,0 +1,6 @@
+{
+  "name": "Italy Threat Intelligence Brief",
+  "description": "Automated daily 8:00 AM CET open-source cyber threat intelligence dashboard focused exclusively on Italy, mapped to NIS2 sectors with interactive treemaps and drill-down popups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
